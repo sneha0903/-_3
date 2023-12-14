@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(225, 231, 234, 0.937);
+    align-items: center;
+}
+.container{
+    text-align: center;
+    background: rgb(251, 253, 253);
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 2px rgb(107,107,107);
+    width: 500px;
+    height: 420px;
+    margin: auto;
+    margin-top: 100px;
+}
+h1{
+    font-family: sans-serif;
+    padding: 10px;
+    padding-bottom: 30px;
+    color: rgb(59, 8, 24);
+}
+label{
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-top: 10px;
+}
+input{
+    width: 250px;
+    padding: 8px;
+    
+}
+select{
+    width: 250px;
+    padding: 8px;
+}
+button{
+    padding: 10px;
+    background-color: rgb(27,140,233);
+    color: white;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    border: none;
+    width: 100px;
+    border-radius: 20px;
+}
+#Result{
+    padding: 20px;
+    color: black;
+    margin-top: 5px;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
